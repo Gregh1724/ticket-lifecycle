@@ -28,15 +28,13 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 Below shows the Customer/End-User experience in creating a ticket to submit to the help desk
 
 <p align="center">
-<img src="https://i.imgur.com/pqEmeya.png" height="80%" width="80%" alt="check request submission"/>
+<img src="https://i.imgur.com/d4GVlJF.png" height="65%" width="65%" alt="end-user experience"/>
 </p>
-
 Customer receives notification letting them know that their ticket/request has been received.
 
 <p align="center">
-<img src="https://i.imgur.com/fjx87Go.png" height="80%" width="80%" alt="check request submission"/>
+<img src="https://i.imgur.com/S82KGP1.png" height="80%" width="80%" alt="check request submission"/>
 </p>
-
 <br />
 
 #### Intake: 
